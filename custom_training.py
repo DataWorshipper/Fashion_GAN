@@ -1,4 +1,5 @@
 import tensorflow as tf
+import keras
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.losses import BinaryCrossentropy
 
