@@ -31,7 +31,7 @@ Uses convolutional layers followed by Leaky ReLU activation and dropout for regu
 
 **Training**
 
-The model has been trained for 50 epochs in this implementation. While this initial training has yielded some promising results, further training for additional epochs is expected to improve the quality of the generated images significantly.
+The model has been trained for 200 epochs in this implementation. While this initial training has yielded some promising results, further training for additional epochs is expected to improve the quality of the generated images significantly.
 
 The training process involves the following steps:
 
