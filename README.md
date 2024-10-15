@@ -42,3 +42,9 @@ Train the discriminator with both real images (from the Fashion MNIST dataset) a
 Train the generator using the discriminator's feedback to improve the quality of generated images.
 
 The process is repeated for a specified number of epochs.
+
+The training curve of the GAN highlighting both the discriminator and the generator loss is shown below:
+
+![GAN TRAINING CURVE](https://github.com/user-attachments/assets/d2a381c7-f70c-4637-b787-eaa8212fd98b)
+
+We can see that the training of the GAN becomes stable as we train for more and more epochs.
